@@ -29,7 +29,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true&disable_animations=true" height="165" alt="GitHub streak">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htrung1105&theme=tokyonight" height="165" alt="GitHub stats">
 </p>
 
