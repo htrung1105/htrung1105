@@ -29,14 +29,7 @@ Final-year Artificial Intelligence student at VNU-HCM University of Science. I b
 
 Legal Q&A with structured citations and expiry warnings, built by a team of five. 353,746 documents become about 7.48 million chunks, searched through Elasticsearch and expanded through a Neo4j knowledge graph.
 
-```mermaid
-flowchart LR
-  Q[Legal question] --> H[Hybrid search<br/>BM25 + dense]
-  H --> R[RRF and<br/>reranking]
-  R --> G[Neo4j graph<br/>expansion]
-  G --> A[LLM answer]
-  A --> C[Structured<br/>citations]
-```
+`Legal question` → `Hybrid search (BM25 + dense)` → `RRF and reranking` → `Neo4j graph expansion` → `LLM answer` → `Structured citations`
 
 **My part:** the knowledge graph pipeline, hybrid retrieval and its evaluation scripts, the LangGraph agent service, and CI/CD.
 
