@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://htrung1105.github.io"><img src="https://img.shields.io/badge/htrung1105.github.io-000?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/trungnlh/"><img src="https://img.shields.io/badge/trungnlh-000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/trungnlh/"><img src="https://img.shields.io/badge/trungnlh-000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   <a href="mailto:nguyenlehoangtrung1105@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://orcid.org/0009-0008-0343-2577"><img src="https://img.shields.io/badge/ORCID-000?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <img src="https://komarev.com/ghpvc/?username=htrung1105&style=flat-square&color=2f81f7&label=Views" alt="Profile views">
