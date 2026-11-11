@@ -23,57 +23,18 @@ I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><b>LANGUAGES</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C%2B%2B-000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/LaTeX-000?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/PaddlePaddle-000?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddlePaddle">
-      <img src="https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-      <img src="https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-      <img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-    </td>
-  </tr>
-  <tr>
-    <td><b>LLM &amp; RAG</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-      <img src="https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
-      <img src="https://img.shields.io/badge/Hugging_Face-000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-      <img src="https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-    </td>
-  </tr>
-  <tr>
-    <td><b>BACKEND &amp; DATA</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
-      <img src="https://img.shields.io/badge/Elasticsearch-000?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-      <img src="https://img.shields.io/badge/Milvus-000?style=flat-square&logo=milvus&logoColor=white" alt="Milvus">
-      <img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-    </td>
-  </tr>
-  <tr>
-    <td><b>DEVOPS &amp; TOOLS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-      <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" alt="Elasticsearch" title="Elasticsearch">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
+</p>
 
 ## Statistics
 
