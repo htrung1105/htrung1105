@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://htrung1105.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=820&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Trung+Nguyen;Studying+for+a+BSc+in+AI23%2DC+HCMUS" alt="Hi, I'm Trung Nguyen. Studying for a BSc in AI23-HCMUS.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=820&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Trung+Nguyen;Studying+for+a+BSc+in+AI23%2D+HCMUS" alt="Hi, I'm Trung Nguyen. Studying for a BSc in AI23-HCMUS.">
   </a>
 </h1>
 
