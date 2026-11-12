@@ -40,18 +40,14 @@ I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student
 
 ## Statistics
 
-<table align="center">
-  <tr>
-    <td rowspan="3"><img src="profile-3d-contrib/profile-tokyonight.svg" width="560" alt="3D GitHub contribution calendar"></td>
-    <td><img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true&disable_animations=true&hide_total_contributions=true&hide_longest_streak=true&card_width=300&card_height=170" width="220" alt="Current streak"></td>
-  </tr>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true&disable_animations=true&hide_total_contributions=true&hide_current_streak=true&card_width=300&card_height=170" width="220" alt="Longest streak"></td>
-  </tr>
-  <tr>
-    <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" width="220" alt="GitHub stats"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="profile-3d-contrib/profile-tokyonight.svg" width="100%" alt="3D GitHub contribution calendar">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="135" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true&disable_animations=true&hide_total_contributions=true&card_width=340&card_height=200" height="135" alt="Current and longest streak">
+  <a href="https://leetcode.com/u/trungnlh/"><img src="https://leetcard.jacoblin.cool/trungnlh?colors=1a1b27,24283b,c0caf5,7a88cf,70a5fd,9ece6a,e0af68,f7768e&border=0&radius=4&animation=false" height="135" alt="LeetCode stats"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htrung1105/htrung1105/output/github-snake-dark.svg">
