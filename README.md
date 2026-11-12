@@ -25,19 +25,68 @@ I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" title="Python">
+#### 💻 Languages
+
+<p>
   <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" alt="Elasticsearch" title="Elasticsearch">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="SQL" title="SQL">
+  <img src="https://skillicons.dev/icons?i=latex" width="48" alt="LaTeX" title="LaTeX">
 </p>
 
+#### 🧠 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" title="PyTorch">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" title="TensorFlow">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="scikit-learn" title="scikit-learn">
+  <img src="icons/numpy.svg" width="48" alt="NumPy" title="NumPy">
+  <img src="icons/pandas.svg" width="48" alt="Pandas" title="Pandas">
+  <img src="https://skillicons.dev/icons?i=anaconda" width="48" alt="Anaconda" title="Anaconda">
+</p>
+
+#### 🌐 Web / Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React.js" title="React.js">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js" title="Vue.js">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI">
+</p>
+
+#### ⚙️ DevOps / Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins" title="Jenkins">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=notion" width="48" alt="Notion" title="Notion">
+</p>
+
+#### 🤖 AI Tools
+
+<p>
+  <img src="icons/claude.svg" width="48" alt="Claude" title="Claude">
+  <img src="icons/chatgpt.svg" width="48" alt="ChatGPT" title="ChatGPT">
+  <img src="icons/antigravity.svg" width="48" alt="Antigravity" title="Antigravity">
+</p>
+
+#### 📚 Core Knowledge
+
+<p>
+  <img src="icons/dsa.svg" width="48" alt="Data Structures &amp; Algorithms" title="Data Structures &amp; Algorithms">
+  <img src="icons/oop.svg" width="48" alt="Object-Oriented Programming" title="Object-Oriented Programming">
+  <img src="icons/ml.svg" width="48" alt="Machine Learning" title="Machine Learning">
+  <img src="icons/dl.svg" width="48" alt="Deep Learning" title="Deep Learning">
+  <img src="icons/nlp.svg" width="48" alt="Natural Language Processing" title="Natural Language Processing">
+  <img src="icons/data-mining.svg" width="48" alt="Data Mining" title="Data Mining">
+  <img src="icons/se-for-ai.svg" width="48" alt="Software Engineering for AI" title="Software Engineering for AI">
+  <img src="icons/devops.svg" width="48" alt="DevOps" title="DevOps">
+</p>
 ## Statistics
 
 <p align="center">
