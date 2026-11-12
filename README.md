@@ -46,7 +46,7 @@ I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student
 <p align="center">
   <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="135" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=htrung1105&theme=tokyonight&hide_border=true&disable_animations=true&hide_total_contributions=true&card_width=340&card_height=200" height="135" alt="Current and longest streak">
-  <a href="https://leetcode.com/u/trungnlh/"><img src="https://leetcard.jacoblin.cool/trungnlh?colors=1a1b27,24283b,c0caf5,7a88cf,70a5fd,9ece6a,e0af68,f7768e&border=0&radius=4&animation=false" height="135" alt="LeetCode stats"></a>
+  <a href="https://leetcode.com/u/trungnlh/"><img src="https://leetcard.jacoblin.cool/trungnlh?colors=1a1b27,24283b,c0caf5,7a88cf,70a5fd,9ece6a,e0af68,f7768e&border=0&radius=4&animation=false&hide=ranking" height="135" alt="LeetCode stats"></a>
 </p>
 
 <picture>
