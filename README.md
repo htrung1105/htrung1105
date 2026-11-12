@@ -17,7 +17,7 @@
 
 I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student at [VNU-HCM University of Science](https://en.hcmus.edu.vn/) with a deep passion for **Multimodal AI**. I build retrieval systems end to end: RAG and GraphRAG, LLM agents, video retrieval, and document OCR.
 
-📄 Co-author of [KPTER](https://doi.org/10.1007/978-981-92-2587-3_24) (Springer, SOICT 2025) · 🏆 2nd Prize, ICPC Southern Region 2024
+📄 Co-author of [KPTER](https://doi.org/10.1007/978-981-92-2587-3_24) (Springer, SOICT 2025) · 🏆 2nd Prize, ICPC Southern Region 2024 & Consolation Prize, Vietnamese National Informatics Olympiad 2023
 
 🌐 You can find more about me and my projects at **[htrung1105.github.io](https://htrung1105.github.io)**.
 
