@@ -87,6 +87,7 @@ I'm **Trung Nguyen**, from Vietnam, a final-year Artificial Intelligence student
   <img src="icons/se-for-ai.svg" width="48" alt="Software Engineering for AI" title="Software Engineering for AI">
   <img src="icons/devops.svg" width="48" alt="DevOps" title="DevOps">
 </p>
+
 ## Statistics
 
 <p align="center">
