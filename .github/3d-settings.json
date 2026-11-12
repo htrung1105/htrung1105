@@ -1,0 +1,14 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-tokyonight.svg",
+  "backgroundColor": "#1a1b27",
+  "foregroundColor": "#c0caf5",
+  "strongColor": "#7aa2f7",
+  "weakColor": "#565f89",
+  "radarColor": "#bb9af7",
+  "growingAnimation": false,
+  "saturation": "55%",
+  "contribLightness": ["18%", "30%", "38%", "48%", "60%"],
+  "duration": "12s",
+  "hueRatio": -7
+}
